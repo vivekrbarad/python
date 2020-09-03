@@ -1,0 +1,51 @@
+name = "vivek"
+name1 ="barad"
+
+print(name+name1)
+
+#string example
+
+a="hello world"
+print(type(a))
+print(a)
+
+#integer example
+
+x = 20
+y = 30
+
+print(x+y)
+
+#float example
+
+z = 200.5
+print(x+y+z)
+
+#list example
+
+lst = ["vivek","raj","vishal"]
+
+print(lst)
+print(lst[1])
+lst.append("sai")
+print(lst)
+
+#Dictionaries exxample
+
+d = {"apple","orange","cheery"}
+print(d)
+print(len(d))
+
+#sets example
+
+sets ={"1","2","3","4","5"}
+print(sets)
+sets.add("10")
+print(sets)
+
+#tuples example
+
+thetuple = ("10","20","30","40")
+print(thetuple)
+print(thetuple[2])
+print(thetuple[-1])
